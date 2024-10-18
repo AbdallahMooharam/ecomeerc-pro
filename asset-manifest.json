@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecomeerc-pro/static/css/main.afd528c6.css",
+    "main.js": "/ecomeerc-pro/static/js/main.2bf83d90.js",
+    "static/js/453.2782e982.chunk.js": "/ecomeerc-pro/static/js/453.2782e982.chunk.js",
+    "index.html": "/ecomeerc-pro/index.html",
+    "main.afd528c6.css.map": "/ecomeerc-pro/static/css/main.afd528c6.css.map",
+    "main.2bf83d90.js.map": "/ecomeerc-pro/static/js/main.2bf83d90.js.map",
+    "453.2782e982.chunk.js.map": "/ecomeerc-pro/static/js/453.2782e982.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd528c6.css",
+    "static/js/main.2bf83d90.js"
+  ]
+}
