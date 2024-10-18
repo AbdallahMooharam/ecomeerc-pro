@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.our-team {
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s;
+}
+
+.our-team:hover {
+  transform: scale(1.05);
+}
+
+.social a {
+  transition: color 0.3s;
+}
+
+.social a:hover {
+  color: #007bff; /* لون للتأثير عند التمرير */
+}
